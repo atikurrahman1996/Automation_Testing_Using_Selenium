@@ -1,2 +1,2 @@
-# Automation_Testing_Using_Selenium with BITM
+# Automation_Testing_Using_Selenium_Maven_TestNG_with BITM
 Automation Testing Project_OpenCart
